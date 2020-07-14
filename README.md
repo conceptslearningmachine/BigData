@@ -1,5 +1,5 @@
 # BigData
 
-conceptslearningmachine LLC
+CLM Limited Liability Company
 
-www.conceptslearningmachine.com
+
