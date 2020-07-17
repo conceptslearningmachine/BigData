@@ -21,7 +21,7 @@ capture times are recorded at the time of icon
 click. 
 
 Note:To record a matched time sync on silica system's, time must be 
-pre-registered programmatically, never a true time synchronization(ie. time sync incomplete).
+pre-registered programmatically, not true time synchronization(ie. time sync incomplete).
 
 *important note:a semiconductor(silca 
 microprocessor) and/or any like graphene structured 
