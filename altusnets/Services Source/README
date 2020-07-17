@@ -1,7 +1,7 @@
 Update for 2020.07.16-20:08GMT;
 
 Added www.usno.navy.mil to master time clock 
-for master ntp date_time check.
+for master ntp and ntppool date_time check.
 
 Update for 2020.07.16-20:07GMT;
 
