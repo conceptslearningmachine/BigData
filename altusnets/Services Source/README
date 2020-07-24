@@ -3,6 +3,9 @@ Update for 2020.07.24-04:44GMT;
 Will be offloading all DATA to on-site storage due to extrapolating
 conditions.
 
+Frequency of snapshots will increase and at randomized time frame, 
+only the ntp UTC time check at 1800-1900GMT standby and ued6 updates at around 1300GMT will remain static.
+
 Update for 2020.07.21-12:05GMT;
 
 NETWORK up
