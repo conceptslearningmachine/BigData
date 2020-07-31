@@ -81,32 +81,32 @@ frequencies(ie. RGB pattern) in a meadin free(ie. unified flowing plane)
 viscous plankton vacuum(ie. sealed free flowing unit) is synchronous true for 
 timing events(ie. time sync complete).
 
-Update for 2020.07.16-20:08GMT;
+Update for 2020-07-16-20-08-GMT;
 
 Added www.usno.navy.mil to master time clock 
 for master ntp and ntppool date_time check.
 
-Update for 2020.07.16-20:07GMT;
+Update for 2020-07-16-20-07-GMT;
 
 www.time.gov loading with-in five to six seconds
 of normal load/refresh rate.
 
-Update for 2020.07.16-19:56GMT;
+Update for 2020-07-16-19-56-GMT;
 
 www.time.gov not loading.
 
-Update for 2020.07.15-10:10GMT;
+Update for 2020-07-15-10-10-GMT;
 
 Uploading restored, continuing data uploading to https://github.com/altusnets/BigData/altusnets/Services Source/*, 
 and off site storage.
 
-Update for 2020.07.15-09:27GMT;
+Update for 2020-07-15-09-27-GMT;
 
 Upload interruption to https://github.com/altusnets/BigData/altusnets/Services Source/*, 
 continuing data collection and entries(as per inclusive directories
 context) on local off site storage.
 
-Update for 2019.09.17-08:00GMT;
+Update for 2019-09-17-08-00-GMT;
 
 Architecture tabulation design for, TheBitMarket,
 as quartered at https://github.com/TheBitMarket.
